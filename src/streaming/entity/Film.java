@@ -21,7 +21,7 @@ import javax.persistence.OneToMany;
 import org.eclipse.persistence.annotations.CascadeOnDelete;
 
 /**
- *
+ * Entité gérant les films
  * @author admin
  */
 @Entity

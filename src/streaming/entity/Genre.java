@@ -17,7 +17,7 @@ import javax.persistence.OneToMany;
 import org.eclipse.persistence.annotations.CascadeOnDelete;
 
 /**
- *
+ *Entité gérant les genres
  * @author admin
  */
 @Entity

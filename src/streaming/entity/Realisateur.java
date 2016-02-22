@@ -17,7 +17,7 @@ import javax.persistence.ManyToMany;
 import org.eclipse.persistence.annotations.CascadeOnDelete;
 
 /**
- *
+ * uyiyiuyuui
  * @author admin
  */
 @Entity

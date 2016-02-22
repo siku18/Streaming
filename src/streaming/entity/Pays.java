@@ -20,7 +20,7 @@ import javax.persistence.OneToMany;
 import org.eclipse.persistence.annotations.CascadeOnDelete;
 
 /**
- *
+ *Ici c'est la folie
  * @author admin
  */
 @Entity
